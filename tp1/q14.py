@@ -2,7 +2,7 @@ votos1 = 0
 votos2 = 0
 votos3 = 0
 
-print("Olá! Que tal votarmos em um candidato?")
+print("Oi! Que tal votarmos em um candidato?")
 print("Os candidatos são:")
 print("1 - Yuji Itadori")
 print("2 - Nobara Kugisaki")

@@ -12,7 +12,7 @@ def calculo_desconto(valor_compra):
     valor_final = valor_compra - valor_desconto
     return valor_desconto, valor_final
 
-print("Olá! Que tal fazermos umas comprinhas?")
+print("Oi! Que tal fazermos umas comprinhas?")
 valor_compra = float(input("Quanto você gastou? "))
 
 valor_desconto, valor_final = calculo_desconto(valor_compra)
